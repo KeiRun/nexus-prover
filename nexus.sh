@@ -1,7 +1,5 @@
 #!/bin/bash
 
-sleep 5
-
 BOLD=$(tput bold)
 NORMAL=$(tput sgr0)
 PINK='\033[1;35m'
